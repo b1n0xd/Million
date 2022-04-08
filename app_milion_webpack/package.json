@@ -1,0 +1,14 @@
+{
+  "name": "app_milion_webpack",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main/index.js",
+  "scripts": {
+    "start": "webpack --watch --config dev.webpack.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  }
+}
